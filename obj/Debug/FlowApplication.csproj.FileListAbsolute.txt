@@ -1,0 +1,11 @@
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.csproj.AssemblyReference.cache
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.Properties.Resources.resources
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.csproj.GenerateResource.cache
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.csproj.CoreCompileInputs.cache
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.FormMain.resources
+D:\Projects\C#\FlowApplication\obj\Debug\FlowApplication.Form_Alert.resources
+D:\Projects\C#\FlowApplication\bin\Debug\Flow Time.exe.config
+D:\Projects\C#\FlowApplication\bin\Debug\Flow Time.exe
+D:\Projects\C#\FlowApplication\bin\Debug\Flow Time.pdb
+D:\Projects\C#\FlowApplication\obj\Debug\Flow Time.exe
+D:\Projects\C#\FlowApplication\obj\Debug\Flow Time.pdb
