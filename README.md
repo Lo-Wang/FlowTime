@@ -1,1 +1,1 @@
-# FlowApplication
+# FlowTime - приложение помодоро-таймер.
